@@ -9,3 +9,22 @@ ol,
 menu {
 	list-style: none;
 }
+h1 {
+	display: inline-block;
+	vertical-align:top;
+	padding: 10px;
+	margin-left: -7px; 
+}
+.logo 	{
+	padding-left: 15px;
+	padding-top: 15px;
+	background-color: white;
+}
+
+body {
+	background-color: bisque;
+}
+
+.inside-box {
+	contain:content;
+}
