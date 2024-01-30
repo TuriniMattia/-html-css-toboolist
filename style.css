@@ -36,6 +36,7 @@ menu {
 	margin: 0px auto;
 	border-radius: 5px;
 	margin-top: 50px;
+	padding-bottom: 50px
 
 
 }
@@ -48,7 +49,7 @@ menu {
 }
 
 .blue-button {
-	background-color: rgba(0, 255, 255, 0.369);
+	background-color: rgba(0, 107, 107, 0.556);
 	border-radius: 5px;
 	border-color:transparent;
 	padding: 5px;
@@ -76,5 +77,66 @@ menu {
 	border-style: solid;
 	border-radius: 45%;
 
+}
 
+.editorial {
+	font-size: small;
+	border-style: solid ;
+	background-color: rgba(0, 107, 107, 0.556) ;
+	border-color: transparent;
+	border-radius: 20px;
+	padding: 4px;
+	color: aliceblue;
+
+}
+.mobile {
+	font-size: small;
+	border-style: solid ;
+	background-color:orange;
+	border-color: transparent;
+	border-radius: 20px;
+	padding: 4px;
+	color: aliceblue;
+
+}
+.sales {
+	font-size: small;
+	border-style: solid ;
+	background-color:rgb(72, 106, 21);
+	border-color: transparent;
+	border-radius: 20px;
+	padding: 4px;
+	color: aliceblue;
+
+
+}
+
+.website {
+	font-size: small;
+	border-style: solid ;
+	background-color:rgb(249, 9, 9);
+	border-color: transparent;
+	border-radius: 20px;
+	color: aliceblue;
+	padding: 4px;
+}
+
+.q1 {
+	font-size: small;
+	border-style: solid ;
+	background-color: violet;
+	border-color: transparent;
+	border-radius: 20px;
+	color: aliceblue;
+	padding: 4px;
+}
+
+.recruiting {
+	font-size: small;
+	border-style: solid ;
+	background-color:green;
+	border-color: transparent;
+	border-radius: 20px;
+	color: aliceblue;
+	padding: 4px;
 }
